@@ -1,3 +1,6 @@
+# Appveyor
+[![Build status](https://ci.appveyor.com/api/projects/status/c14q7ajvh7so8reb?svg=true)](https://ci.appveyor.com/project/Nazarov-Dmitriy/unit-test-task-1)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.

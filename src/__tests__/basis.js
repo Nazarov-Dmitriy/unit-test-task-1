@@ -14,7 +14,6 @@ test.each([
     health: 15,
   }],
 ])('testing indication life %s status in %o  ', (status, obj) => {
-  console.log(status);
   const result = lifeIndication(obj);
   expect(result).toBe(status);
 });
